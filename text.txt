@@ -1,0 +1,6 @@
+Hola este es mi texto plano
+
+Soy Cristian Camilo Quinche Vélez
+
+I´m learning how use git, github
+
