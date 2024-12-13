@@ -4,3 +4,4 @@ Soy Cristian Camilo Quinche Vélez
 
 I´m learning how use git, github
 
+mañana nos enfocaremos en github
