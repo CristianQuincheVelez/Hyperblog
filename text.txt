@@ -1,9 +1,6 @@
 Hola este es mi texto plano
 
-Soy Cristian Camilo Quinche Vélez, de Tuluá
-Quiero aprender Datascience
+Soy Cristian Camilo Quinche Vélez
 
 I´m learning how use git, github
-
-en camara parece alto pero no lo es y su vida es genial y es una obra maestra  
 
