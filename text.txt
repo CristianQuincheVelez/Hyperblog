@@ -2,15 +2,6 @@ Hola este es mi texto plano
 
 Soy Cristian Camilo Quinche Vélez
 
-<<<<<<< HEAD
-main 1 
-=======
-Experimento 1
->>>>>>> 9b28fbd (Experimento para aprender a usar rebase_2)
-
-Experimento 2
-
-
 I´m learning how use git, github
 
 mañana nos enfocaremos en github
